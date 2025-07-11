@@ -1,0 +1,22 @@
+{
+    "sourceFile": ".vscode/settings.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1752156390028,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1752156415280,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,8 @@\n {\n   \"cSpell.languageSettings\": [],\n-  \n-}\n\\ No newline at end of file\n+  \"editor.fontFamily\": \"GopherMono-Regular,NKDuyMono-Regular,GopherMono-Regular, Menlo, Monaco, 'Courier New', monospace\",\n+\n+  \"editor.fontSize\": 19,\n+  \"editor.lineHeight\": 1.5,\n+  \"workbench.fontAliasing\": \"antialiased\"\n+}\n"
+                }
+            ],
+            "date": 1752156390028,
+            "name": "Commit-0",
+            "content": "{\n  \"cSpell.languageSettings\": [],\n  \n}"
+        }
+    ]
+}
